@@ -10,29 +10,39 @@
 ---
 
 ## 📑 Table of Contents
-1. [Course Overview](#-course-overview)
-2. [Folder Structure](#-folder-structure)
-3. [Who is this for?](#-who-is-this-for)
-4. [How to Use](#-how-to-use)
-5. [Future Updates](#-future-updates)
-6. [Author](#-author)
+1. [📚 Course Overview](#-course-overview)
+2. [📂 Folder Structure](#-folder-structure)
+3. [👨‍💻 Who is this for?](#-who-is-this-for)
+4. [🛠 How to Use](#-how-to-use)
+5. [📥 Download PDFs](#-download-pdfs)
+6. [🚀 Future Updates](#-future-updates)
+7. [✍️ Author](#-author)
 
 ---
 
 ## 📚 Course Overview
-This repository contains a **complete Python learning journey** from **Basic concepts** to **Advanced real-world projects**.  
+This repository contains a **complete Python learning journey** from **basic concepts** to **advanced real-world projects**.  
 It is designed for **self-learners** who want hands-on experience with Python.
 
 ---
+📁 Basic-to-Advanced-Python-Course
+┣ 📜 Basic_Python.pdf
+┣ 📜 Advanced_Python.pdf
+┣ 📜 Python_Automation.pdf
+┣ 📜 Mini_Projects.pdf
+┣ 📄 README.md
 
-## 📂 Folder Structure
+---
 
-```bash
-📂 Basic Python
- ├── 📂 Assignments
- └── 📂 Unity Projects
+## 👨‍💻 Who is this for?
+- Beginners who want to learn Python from scratch
+- Intermediate learners who want to strengthen their fundamentals
+- Developers aiming to build **automation scripts** and **real-world projects**
+- Students preparing for **interviews** or **freelance work**
 
-📂 Advanced Python
- ├── 📂 Object Oriented Programming
- ├── 📂 File Handling
- └── 📂 Automation
+---
+
+## 🛠 How to Use
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/LoveRamiz/Basic-to-Advanced-Python-Course.git
