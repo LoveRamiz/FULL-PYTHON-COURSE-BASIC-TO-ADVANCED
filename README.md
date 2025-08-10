@@ -32,7 +32,7 @@ It is designed for **self-learners** who want hands-on experience with Python.
 |-----|----------|---------------|
 | 1 | Object-Oriented Programming | [📄 View/Download](https://github.com/LoveRamiz/FULL-PYTHON-COURSE-BASIC-TO-ADVANCED/blob/main/Advance%20Python/1%20-%20course/Object-Oriented%20Programming.pdf) |
 | 2 | File Handling Course | [📄 View/Download](https://github.com/LoveRamiz/FULL-PYTHON-COURSE-BASIC-TO-ADVANCED/blob/main/Advance%20Python/2/Fill%20Handling%20Course.pdf) |
-| 3 | Automation Course | [📄 View/Download](https://github.com/LoveRamiz/FULL-PYTHON-COURSE-BASIC-TO-ADVANCED/tree/main/Advance%20Python/3-course.pdf) |
+| 3 | Automation Course | [📄 View/Download](https://github.com/LoveRamiz/FULL-PYTHON-COURSE-BASIC-TO-ADVANCED/tree/main/Advance%20Python/3-course) |
 | 4 | Basic Python Assignment | [📄 View/Download](https://github.com/LoveRamiz/FULL-PYTHON-COURSE-BASIC-TO-ADVANCED/blob/main/Basic%20python/Basic%20Python%20Assignment.pdf) |
 | 5 | Python Unity Project | [📄 View/Download](https://github.com/LoveRamiz/FULL-PYTHON-COURSE-BASIC-TO-ADVANCED/blob/main/Basic%20python/Python%20Unity%20project.pdf) |
 
